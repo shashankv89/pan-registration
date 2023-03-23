@@ -1,0 +1,6 @@
+// logic for application
+
+int a=10;
+int b=20;
+
+//logic pending
